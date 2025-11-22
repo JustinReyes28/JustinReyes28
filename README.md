@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Aspiring Software Developer | BSIT Student
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=2nd+Year+BSIT+Student;Central+Luzon+State+University;C+%7C+Java+%7C+Web+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=2nd+Year+BSIT+Student;C+%7C+Java+%7C+Web+Development)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,7 +18,7 @@
  <br>
  🌱 I’m currently learning <b>Full Stack Web Development</b> and <b>Data Structures</b>.
  <br>
- 💡 I'm interested in building efficient software and interactive web applications.
+ 💡 I'm interested in building efficient software, video games and interactive web applications.
 </p>
 
 </div>
