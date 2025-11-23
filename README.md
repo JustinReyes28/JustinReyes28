@@ -43,12 +43,11 @@
 
 ## 📊 My GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinReyes28)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinReyes28&theme=dark&layout=compact&border_radius=10)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustinReyes28)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustinReyes28&theme=dark&border_radius=10&show_icons=true)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=JustinReyes28&theme=react-dark&border_radius=10)
-
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=JustinReyes28&theme=dark&border_radius=10&hide_border=false)
 <br/>
 
 ### 📫 Connect with me
