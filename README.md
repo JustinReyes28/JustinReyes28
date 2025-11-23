@@ -46,11 +46,12 @@
 
 ---
 
-### 📊 GitHub Statistics
+## 📊 My GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JustinReyes28&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph"  />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinReyes28)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustinReyes28)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=JustinReyes28&theme=react-dark&border_radius=10)
 
 <br/>
 
