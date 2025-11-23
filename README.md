@@ -60,7 +60,7 @@
 <div align="center"> 
   <!-- You can add your Facebook, LinkedIn, or Email here. Remove the ones you don't want. -->
   
-  <a href="mailto:28justinreyes@gmail.com">
+  <a href="mailto:JustinReyes28@proton.me">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://linkedin.com/in/your-linkedin-profile">
