@@ -58,7 +58,7 @@
   <a href="mailto:JustinReyes28@proton.me">
    <img src="https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Mail"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile">
+  <a href="www.linkedin.com/in/justin-reyes-084951240\">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/justin.reyes.305237">
