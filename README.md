@@ -11,7 +11,7 @@
 <p align="center">
  🔭 I’m currently a 2nd Year <b>Bachelor of Science in Information Technology</b> student at <br><b>Central Luzon State University (CLSU)</b>.
  <br>
- 🌱 I’m currently learning <b>Full Stack Web Development</b> and <b>Data Structures</b>.
+ 🌱 I’m currently learning <b>Full Stack Web Development</b>.
  <br>
  💡 I'm interested in building efficient software, video games and interactive web applications.
 </p>
@@ -41,17 +41,17 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 
 
+<div align="center">
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats-nine-peach-59.vercel.app/api?username=JustinReyes28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats-nine-peach-59.vercel.app/api/top-langs/?username=JustinReyes28&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="170"/>
+</p>
+
+
 </div>
-
----
-
-## 📊 My GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinReyes28&theme=tokyonight)
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JustinReyes28&theme=github_dark)
-
-<br/>
 
 ### 📫 Connect with me
 
