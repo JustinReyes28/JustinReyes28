@@ -57,7 +57,9 @@
 
 <div align="center"> 
   <!-- You can add your Facebook, LinkedIn, or Email here. Remove the ones you don't want. -->
-  
+  <a href="mailto:justineyes28.work@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
   <a href="mailto:JustinReyes28@proton.me">
    <img src="https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Mail"/>
   </a>
