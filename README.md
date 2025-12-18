@@ -46,6 +46,14 @@
 
 <!-- Editors/Tools -->
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+
+<!-- AI Tools -->
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Qwen-512BD4?style=for-the-badge&logo=qwen&logoColor=white" />
+<img src="https://img.shields.io/badge/Mistral-5C5CFF?style=for-the-badge&logo=huggingface&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude%20Code-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT%20OSS-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
 
 </div>
 
