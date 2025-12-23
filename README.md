@@ -3,13 +3,10 @@
 # Hi there, I'm Justin Reyes! 👋
 
 ### 👨‍💻 Aspiring Software Developer | BSIT Student
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=2nd+Year+BSIT+Student;C+%7C+PHP+%7C+Web+Development)](https://git.io/typing-svg)
-<br/>
-<img src="https://media.giphy.com/media/riAnEhoDPDs9gwZ6bm/giphy.gif" width="200px">
-<br/>
+
 
 <p align="center">
- 🔭 I’m currently a 2nd Year <b>Bachelor of Science in Information Technology</b> student at <br><b>Central Luzon State University (CLSU)</b>.
+ 🔭 I’m currently a <b>Bachelor of Science in Information Technology</b> student at <br><b>Central Luzon State University (CLSU)</b>.
  <br>
  🌱 I’m currently learning <b>Full Stack Web Development</b>.
  <br>
@@ -60,7 +57,6 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-nine-peach-59.vercel.app/api?username=JustinReyes28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-stats-nine-peach-59.vercel.app/api/top-langs/?username=JustinReyes28&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="170"/>
 </p>
 
