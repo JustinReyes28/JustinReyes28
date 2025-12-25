@@ -1,16 +1,16 @@
 <div align="center">
 
-# Hi there, I'm Justin Reyes! 👋
+# Hi there, I'm Justin Reyes!
 
-### 👨‍💻 Aspiring Software Developer | BSIT Student
+### Aspiring Software Developer | BSIT Student
 
 
 <p align="center">
- 🔭 I’m currently a <b>Bachelor of Science in Information Technology</b> student at <br><b>Central Luzon State University (CLSU)</b>.
+ I’m currently a <b>Bachelor of Science in Information Technology</b> student at <br><b>Central Luzon State University (CLSU)</b>.
  <br>
- 🌱 I’m currently learning <b>Full Stack Web Development</b>.
+ I’m currently learning <b>Full Stack Web Development</b>.
  <br>
- 💡 I'm interested in building efficient software, video games and interactive web applications.
+ I'm interested in building efficient software, video games and interactive web applications.
 </p>
 
 </div>
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 
 <!-- Core Languages -->
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -54,7 +54,7 @@
 
 </div>
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats-nine-peach-59.vercel.app/api/top-langs/?username=JustinReyes28&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="170"/>
@@ -63,7 +63,7 @@
 
 </div>
 
-### 📫 Connect with me
+### Connect with me
 
 <div align="center"> 
   <!-- You can add your Facebook, LinkedIn, or Email here. Remove the ones you don't want. -->
