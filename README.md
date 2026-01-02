@@ -2,7 +2,7 @@
 
 # Hi there, I'm Justin Reyes!
 
-### Aspiring Software Developer | BSIT Student
+### Software Developer | BSIT Student
 
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-# ✦ Tech Stack
+# ✦ Tech Stack ✦ 
 
 ### Frontend
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -48,7 +48,7 @@
 
 <div align="center">
  
-# ✦ GitHub Statistics
+# ✦ GitHub Statistics ✦
 
 <p align="center">
   <img src="https://github-readme-stats-nine-peach-59.vercel.app/api/top-langs/?username=JustinReyes28&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="170"/>
@@ -59,7 +59,7 @@
 
 <div align="center">
 
-# ✦ Connect with me
+# ✦ Connect with me ✦
 
 <div align="center"> 
   <!-- You can add your Facebook, LinkedIn, or Email here. Remove the ones you don't want. -->
