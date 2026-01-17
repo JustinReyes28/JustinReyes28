@@ -46,13 +46,6 @@
 
 ---
 
-<div align="center">
- 
-# ✦ GitHub Statistics ✦
-
-<p align="center">
-  <img src="https://github-readme-stats-nine-peach-59.vercel.app/api/top-langs/?username=JustinReyes28&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="170"/>
-</p>
 
 
 </div>
