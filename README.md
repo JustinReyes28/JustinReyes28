@@ -15,6 +15,21 @@
 
 </div>
 
+<div align="center">
+
+# 🛠️ Need Website Bug Fixes or Development?
+
+<p>I offer fast, reliable freelance development services for <b>PHP, MySQL, and Web Applications</b>.</p>
+
+<a href="https://www.fiverr.com/justinreyes28">
+  <img src="https://img.shields.io/badge/Hire_Me_On_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Hire Me On Fiverr"/>
+</a>
+
+<br/><br/>
+<i>Specializing in: PHP Bug Fixes • Database Troubleshooting • Web App Development</i>
+
+</div>
+
 ---
 
 <div align="center">
@@ -71,6 +86,11 @@
  <a href="https://paypal.me/justinreyes28">
      <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
   </a>
+ <a href="https://www.fiverr.com/justinreyes28">
+  <img src="https://img.shields.io/badge/Available_for_Hire-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Hire me on Fiverr" />
+</a>
 </div>
+
+
 
 <br/>
